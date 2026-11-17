@@ -7,7 +7,7 @@
 
 ### COMPUTER SCIENCE STUDENT | FULL STACK DEVELOPER
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=C9A7FF&center=true&vCenter=true&width=435&lines=Building+digital+experiences...;Turning+ideas+into+code...;Learning+%7C+Creating+%7C+Evolving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=C9A7FF&center=true&vCenter=true&width=435&lines=Building+digital+experiences....;Turning+ideas+into+code...;Learning+%7C+Creating+%7C+Evolving" />
 
 <br/>
 
