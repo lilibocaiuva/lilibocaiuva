@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100D1C,45:4B267D,100:C084FC&height=3"/>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:100D1C,50:39245C,100:9B72CF&height=190&section=header&text=Ligia%20Bocaiuva&fontSize=48&fontColor=F5E9FF&fontAlignY=43&animation=fadeIn"/>
 
 # Olá, sou Ligia Bocaiuva! ✨
@@ -10,6 +8,8 @@
 ### COMPUTER SCIENCE STUDENT | FULL STACK DEVELOPER
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=C9A7FF&center=true&vCenter=true&width=435&lines=Building+digital+experiences...;Turning+ideas+into+code...;Learning+%7C+Creating+%7C+Evolving" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/ligbocaiuva/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-BB91E8?style=for-the-badge&logo=linkedin&logoColor=white"/>
