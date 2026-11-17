@@ -45,8 +45,9 @@ const ligia = {
 ### Programming Languages
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,html,css&theme=dark"/>
 </div>
+
 
 ### Frameworks & Libraries
 
